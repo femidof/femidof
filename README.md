@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello it's working
 
-<!--
-**femidof/femidof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Femi 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Web & Mobile App Developer!
+
+- 🔭 Developer@Home!
+- 🌱 I’m currently learning everything but presently ML
+- 🥅 2020 Goals: Find a remote job
+- 👯 I’m looking to collaborate on Projects, feel free to hit me up
+- 💬 Ask me about collaborating
+- 📫 How to reach me: [1]: https://twitter.com/TechPhem
+- ⚡ Fun fact: I think more under pressure
