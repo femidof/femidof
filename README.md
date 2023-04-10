@@ -11,4 +11,4 @@
 - 💬 Ask me about collaborating
 - ⚡ Fun fact: I think more under pressure
 
-- Languages are just tools to communicate & solve problem
+- Tool Tips: ```Languages are just tools to communicate & solve problem```
