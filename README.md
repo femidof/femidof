@@ -1,6 +1,6 @@
 # Hello it's working 👋
 
-## I'm a Web, Mobile, Cloud, Networking, Security, AI and Architecting Developer!
+## I'm a Web, Mobile, Cloud, Networking, Security, AI and Architecting Development!
 
 - 🔭 Developer@Home!
 - 🥅 2023 Goals: Building Startups
