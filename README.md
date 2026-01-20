@@ -1,14 +1,11 @@
 # Hello it's working 👋
 
-## I'm a Web, Mobile, Cloud, Networking, Security, AI and Architecting Developer!
+## Loving Web, Mobile, Cloud, Networking, Security, AI, Quantum and Finance!
 
-- 🔭 Developer@Home!
-- 🥅 2023 Goals: Building Startups
-- 🚨 CyberSecurity busybody
+- 🔭 Developing!
+- 🥅 2026 Goals: Building & Crafting
+- 🚨 CyberSecurity Ops
 - 🤖 AI Advocate
 - 🎮 Gaming Enthusiast
-- 👯 I’m looking to collaborate on Projects, feel free to hit me up
-- 💬 Ask me about collaborating
-- ⚡ Fun fact: I think more under pressure
 
 - Tool Tips: ```Languages are just tools to communicate & solve problem```
